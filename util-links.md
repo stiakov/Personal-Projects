@@ -1,4 +1,5 @@
 # Enlaces de utilidad
+
 * [StandUp meetings benefits](https://.6q.io/team-building-benefits-stand-up-meetings)
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 * [Git Basics](https://www.theodinproject.com/courses/web-development-101/lessons/git-basics)
@@ -9,3 +10,4 @@
 * [JavaScript ES6 no más bucles FOR](https://lemoncode.net/lemoncode-blog/2017/6/22/javascript-es6-no-mas-bucles-for)
 * [Introducción a la programación funcional en JavaScript](https://lemoncode.net/lemoncode-blog/2017/9/5/introduccion-programacion-funcional-javascript)
 * [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
+* [GitHub tips and tricks](https://hackernoon.com/git-push-and-pull-tips-and-tricks-7f9163539f02)
