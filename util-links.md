@@ -8,3 +8,4 @@
 * [The best front-end hacking cheatsheets — all in one place.](https://medium.freecodecamp.org/modern-frontend-hacking-cheatsheets-df9c2566c72a)
 * [JavaScript ES6 no más bucles FOR](https://lemoncode.net/lemoncode-blog/2017/6/22/javascript-es6-no-mas-bucles-for)
 * [Introducción a la programación funcional en JavaScript](https://lemoncode.net/lemoncode-blog/2017/9/5/introduccion-programacion-funcional-javascript)
+* [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
