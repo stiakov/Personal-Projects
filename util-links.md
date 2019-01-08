@@ -41,6 +41,10 @@
 * [Practice Typing](https://www.typingclub.com/)
 * [ShortCutFoo](https://shortcutfoo.com)
 
+## CSS
+
+[A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
 ## Otros
 
 * [StandUp meetings benefits](https://.6q.io/team-building-benefits-stand-up-meetings)
