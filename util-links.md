@@ -20,6 +20,8 @@
 * [GitHub tips and tricks](https://hackernoon.com/git-push-and-pull-tips-and-tricks-7f9163539f02)
 * [An Intro to Git and GitHub for Beginners (Tutorial)](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
 * [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
+* [Git Commit flags](https://git-scm.com/docs/git-commit)
+* [GitHub Lab Courses](https://lab.github.com/courses)
 
 ## Ruby & Rails
 
