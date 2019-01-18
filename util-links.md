@@ -22,6 +22,7 @@
 * [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
 * [Git Commit flags](https://git-scm.com/docs/git-commit)
 * [GitHub Lab Courses](https://lab.github.com/courses)
+* [Manage Branches](https://backlog.com/git-tutorial/branching/create-branch/)
 
 ## Ruby & Rails
 
@@ -44,6 +45,9 @@
 ## CSS
 
 [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+[Flexbox Froggy - A game for learning CSS flexbox](https://flexboxfroggy.com/)
+[Grid Garden - A game for learning CSS Grid](https://cssgridgarden.com/)
+[Learn CSS Selectors Interactively Using CSS Diner](http://flukeout.github.io/)
 
 ## Otros
 
