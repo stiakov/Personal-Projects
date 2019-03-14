@@ -1,10 +1,11 @@
 # Enlaces de utilidad
 
-## Javascript
+## ES6 & Javascript
 
 * [JavaScript ES6 no más bucles FOR](https://lemoncode.net/lemoncode-blog/2017/6/22/javascript-es6-no-mas-bucles-for)
 * [Javascript cheatsheet](https://www.paradigmadigital.com/wp-content/uploads/2018/02/JSCheatsheetv1.1.pdf)
 * [Introducción a la programación funcional en JavaScript](https://lemoncode.net/lemoncode-blog/2017/9/5/introduccion-programacion-funcional-javascript)
+* [Learn ES6 by doing it.](http://es6katas.org/)
 
 ## React
 
@@ -27,6 +28,10 @@
 ## Ruby & Rails
 
 * [Try Ruby](https://ruby.github.io/TryRuby/)
+* [Erik Trautman Post's about Ruby](http://www.eriktrautman.com/posts/ruby-explained-numbers-operators-and-expressions)
+* [Ruby Date & Time Tutorial](http://www.tutorialspoint.com/ruby/ruby_date_time.htm)
+* [Codecademy's Ruby Track](https://www.codecademy.com/catalog/language/ruby)
+* [Mastering Ruby Blocks in less than 5 min](https://mixandgo.com/learn/mastering-ruby-blocks-in-less-than-5-minutes)
 
 ## Markdown
 
@@ -48,6 +53,13 @@
 [Flexbox Froggy - A game for learning CSS flexbox](https://flexboxfroggy.com/)
 [Grid Garden - A game for learning CSS Grid](https://cssgridgarden.com/)
 [Learn CSS Selectors Interactively Using CSS Diner](http://flukeout.github.io/)
+[A free visual guide to CSS](https://cssreference.io/)
+[Learn CSS Grid for free](https://scrimba.com/g/gR8PTE)
+
+## Regex
+[Regex Interactive Tutorial](https://regexone.com/)
+
+
 
 ## Otros
 
