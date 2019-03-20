@@ -32,6 +32,7 @@
 * [Ruby Date & Time Tutorial](http://www.tutorialspoint.com/ruby/ruby_date_time.htm)
 * [Codecademy's Ruby Track](https://www.codecademy.com/catalog/language/ruby)
 * [Mastering Ruby Blocks in less than 5 min](https://mixandgo.com/learn/mastering-ruby-blocks-in-less-than-5-minutes)
+* [What Is the Difference Between a Block, a Proc, and a Lambda in Ruby?](http://awaxman11.github.io/blog/2013/08/05/what-is-the-difference-between-a-block/)
 
 ## Markdown
 
