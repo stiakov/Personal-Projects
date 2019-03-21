@@ -36,6 +36,7 @@
 * [How to Use the Ruby Map Method](https://mixandgo.com/learn/how-to-use-the-ruby-map-method)
 * [The History of Ruby](https://www.sitepoint.com/history-ruby/)
 * [Ruby Communities](https://www.ruby-lang.org/en/community/)
+* [Ruby Code Quizes](https://www.codequizzes.com/ruby)
 
 ## Markdown
 
