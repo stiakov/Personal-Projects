@@ -34,6 +34,7 @@
 * [Mastering Ruby Blocks in less than 5 min](https://mixandgo.com/learn/mastering-ruby-blocks-in-less-than-5-minutes)
 * [What Is the Difference Between a Block, a Proc, and a Lambda in Ruby?](http://awaxman11.github.io/blog/2013/08/05/what-is-the-difference-between-a-block/)
 * [How to Use the Ruby Map Method](https://mixandgo.com/learn/how-to-use-the-ruby-map-method)
+* [The History of Ruby](https://www.sitepoint.com/history-ruby/)
 
 ## Markdown
 
