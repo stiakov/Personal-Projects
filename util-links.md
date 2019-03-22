@@ -37,6 +37,7 @@
 * [The History of Ruby](https://www.sitepoint.com/history-ruby/)
 * [Ruby Communities](https://www.ruby-lang.org/en/community/)
 * [Ruby Code Quizes](https://www.codequizzes.com/ruby)
+* [Packing your Ruby application into a single executable.](https://github.com/pmq20/ruby-packer)
 
 ## Markdown
 
