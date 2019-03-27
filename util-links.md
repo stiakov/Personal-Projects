@@ -39,6 +39,7 @@
 * [Ruby Code Quizes](https://www.codequizzes.com/ruby)
 * [Packing your Ruby application into a single executable.](https://github.com/pmq20/ruby-packer)
 * [The way I installed Ruby on my mac](https://dev.to/toyotarone/the-way-i-installed-ruby-on-my-mac-1lah)
+* [Install a new Ruby with rbenv on Mac OS (and make yourself a superhero)](https://gist.github.com/stonehippo/cc0f3098516fb52390f1)
 
 ## Markdown
 
