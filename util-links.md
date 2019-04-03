@@ -83,3 +83,4 @@
 * [StandUp meetings benefits](https://.6q.io/team-building-benefits-stand-up-meetings)
 * [Model-View-Controller (MVC) Explained – With Legos](https://realpython.com/the-model-view-controller-mvc-paradigm-summarized-with-legos/)
 * [Destroy All Software](https://www.destroyallsoftware.com/)
+* [Coding Interview University](https://github.com/jwasham/coding-interview-university)
