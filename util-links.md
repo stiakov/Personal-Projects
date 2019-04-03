@@ -41,6 +41,15 @@
 * [The way I installed Ruby on my mac](https://dev.to/toyotarone/the-way-i-installed-ruby-on-my-mac-1lah)
 * [Install a new Ruby with rbenv on Mac OS (and make yourself a superhero)](https://gist.github.com/stonehippo/cc0f3098516fb52390f1)
 
+## RSpec
+
+* [RSpec Testing for Begginers](https://code.tutsplus.com/series/rspec-testing-for-beginners--cms-1044)
+* [Creating an RSpec Test — A Brief History + Cheatcheat]https://medium.com/@rogercodes1/creating-an-rspec-test-a-brief-history-cheatcheat-269f0beab47a)
+* [RSpec Fizzbuzz](https://learn.co/lessons/rspec-fizzbuzz)
+* [Better Specs - rspec guidelines with ruby](http://betterspecs.org/)
+* [How We Test Rails Applications](https://thoughtbot.com/blog/how-we-test-rails-applications)
+* [Getting Started with RSpec](https://semaphoreci.com/community/tutorials/getting-started-with-rspec)
+
 ## Markdown
 
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
@@ -73,3 +82,4 @@
 
 * [StandUp meetings benefits](https://.6q.io/team-building-benefits-stand-up-meetings)
 * [Model-View-Controller (MVC) Explained – With Legos](https://realpython.com/the-model-view-controller-mvc-paradigm-summarized-with-legos/)
+* [Destroy All Software](https://www.destroyallsoftware.com/)
