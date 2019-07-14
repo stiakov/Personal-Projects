@@ -1,4 +1,4 @@
-# Enlaces de utilidad
+# Util Links
 
 ## ES6 & Javascript
 
@@ -40,6 +40,7 @@
 * [Packing your Ruby application into a single executable.](https://github.com/pmq20/ruby-packer)
 * [The way I installed Ruby on my mac](https://dev.to/toyotarone/the-way-i-installed-ruby-on-my-mac-1lah)
 * [Install a new Ruby with rbenv on Mac OS (and make yourself a superhero)](https://gist.github.com/stonehippo/cc0f3098516fb52390f1)
+* [Programación Orientada por Objetos en Ruby](https://blog.makeitreal.camp/programacion-orientada-por-objetos-ruby/)
 
 ## RSpec
 
@@ -66,17 +67,27 @@
 
 ## CSS
 
-[A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-[Flexbox Froggy - A game for learning CSS flexbox](https://flexboxfroggy.com/)
-[Grid Garden - A game for learning CSS Grid](https://cssgridgarden.com/)
-[Learn CSS Selectors Interactively Using CSS Diner](http://flukeout.github.io/)
-[A free visual guide to CSS](https://cssreference.io/)
-[Learn CSS Grid for free](https://scrimba.com/g/gR8PTE)
+* [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+* [Flexbox Froggy - A game for learning CSS flexbox](https://flexboxfroggy.com/)
+* [Grid Garden - A game for learning CSS Grid](https://cssgridgarden.com/)
+* [Learn CSS Selectors Interactively Using CSS Diner](http://flukeout.github.io/)
+* [A free visual guide to CSS](https://cssreference.io/)
+* [Learn CSS Grid for free](https://scrimba.com/g/gR8PTE)
 
 ## Regex
-[Regex Interactive Tutorial](https://regexone.com/)
 
+* [Regex Interactive Tutorial](https://regexone.com/)
 
+## Data Structures and Algorithms
+
+* [VISUALGO – visualising data structures and algorithms through animation](https://visualgo.net/en)
+
+## SQL
+
+* [Introduction to SQL](https://launchschool.com/books/sql/read/introduction)
+
+## Computer Science
+* [Path to a free self-taught education in Computer Science!](https://github.com/ossu/computer-science)
 
 ## Otros
 
@@ -84,3 +95,4 @@
 * [Model-View-Controller (MVC) Explained – With Legos](https://realpython.com/the-model-view-controller-mvc-paradigm-summarized-with-legos/)
 * [Destroy All Software](https://www.destroyallsoftware.com/)
 * [Coding Interview University](https://github.com/jwasham/coding-interview-university)
+* [HTTP: The Protocol Every Web Developer Must Know - Part 1](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
