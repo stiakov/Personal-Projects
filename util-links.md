@@ -6,6 +6,7 @@
 * [Javascript cheatsheet](https://www.paradigmadigital.com/wp-content/uploads/2018/02/JSCheatsheetv1.1.pdf)
 * [Introducción a la programación funcional en JavaScript](https://lemoncode.net/lemoncode-blog/2017/9/5/introduccion-programacion-funcional-javascript)
 * [Learn ES6 by doing it.](http://es6katas.org/)
+* [A study guide to cure JS fatigue](https://www.freecodecamp.org/news/a-study-plan-to-cure-javascript-fatigue-8ad3a54f2eb1/)
 
 ## React
 
