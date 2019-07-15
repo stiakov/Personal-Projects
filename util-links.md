@@ -46,7 +46,7 @@
 ## RSpec
 
 * [RSpec Testing for Begginers](https://code.tutsplus.com/series/rspec-testing-for-beginners--cms-1044)
-* [Creating an RSpec Test — A Brief History + Cheatcheat]https://medium.com/@rogercodes1/creating-an-rspec-test-a-brief-history-cheatcheat-269f0beab47a)
+* [Creating an RSpec Test — A Brief History + Cheatcheat](https://medium.com/@rogercodes1/creating-an-rspec-test-a-brief-history-cheatcheat-269f0beab47a)
 * [RSpec Fizzbuzz](https://learn.co/lessons/rspec-fizzbuzz)
 * [Better Specs - rspec guidelines with ruby](http://betterspecs.org/)
 * [How We Test Rails Applications](https://thoughtbot.com/blog/how-we-test-rails-applications)
