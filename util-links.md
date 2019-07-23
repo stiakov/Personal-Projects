@@ -43,6 +43,11 @@
 * [Install a new Ruby with rbenv on Mac OS (and make yourself a superhero)](https://gist.github.com/stonehippo/cc0f3098516fb52390f1)
 * [Programación Orientada por Objetos en Ruby](https://blog.makeitreal.camp/programacion-orientada-por-objetos-ruby/)
 
+## Ruby Benchmark
+
+* [Benchmarking Ruby Code](https://blog.appsignal.com/2018/02/27/benchmarking-ruby-code.html)
+* [Benchmark Module](https://docs.ruby-lang.org/en/2.2.0/Benchmark.html)
+
 ## RSpec
 
 * [RSpec Testing for Begginers](https://code.tutsplus.com/series/rspec-testing-for-beginners--cms-1044)
@@ -82,6 +87,7 @@
 ## Data Structures and Algorithms
 
 * [VISUALGO – visualising data structures and algorithms through animation](https://visualgo.net/en)
+* [BigO notation, Why is my programm running slowly?](https://tomstuart92.github.io/BigONotation/)
 
 ## SQL
 
@@ -90,7 +96,7 @@
 ## Computer Science
 * [Path to a free self-taught education in Computer Science!](https://github.com/ossu/computer-science)
 
-## Otros
+## Others
 
 * [StandUp meetings benefits](https://.6q.io/team-building-benefits-stand-up-meetings)
 * [Model-View-Controller (MVC) Explained – With Legos](https://realpython.com/the-model-view-controller-mvc-paradigm-summarized-with-legos/)
