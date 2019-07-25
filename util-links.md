@@ -42,6 +42,7 @@
 * [The way I installed Ruby on my mac](https://dev.to/toyotarone/the-way-i-installed-ruby-on-my-mac-1lah)
 * [Install a new Ruby with rbenv on Mac OS (and make yourself a superhero)](https://gist.github.com/stonehippo/cc0f3098516fb52390f1)
 * [Programación Orientada por Objetos en Ruby](https://blog.makeitreal.camp/programacion-orientada-por-objetos-ruby/)
+* [The Ultimate Guide to Blocks, Procs & Lambdas](https://www.rubyguides.com/2016/02/ruby-procs-and-lambdas/https://www.rubyguides.com/2016/02/ruby-procs-and-lambdas/https://www.rubyguides.com/2016/02/ruby-procs-and-lambdas/https://www.rubyguides.com/2016/02/ruby-procs-and-lambdas/)
 
 ## Ruby Benchmark
 
