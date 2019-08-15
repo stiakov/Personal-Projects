@@ -43,6 +43,7 @@
 * [Install a new Ruby with rbenv on Mac OS (and make yourself a superhero)](https://gist.github.com/stonehippo/cc0f3098516fb52390f1)
 * [Programación Orientada por Objetos en Ruby](https://blog.makeitreal.camp/programacion-orientada-por-objetos-ruby/)
 * [The Ultimate Guide to Blocks, Procs & Lambdas](https://www.rubyguides.com/2016/02/ruby-procs-and-lambdas/https://www.rubyguides.com/2016/02/ruby-procs-and-lambdas/https://www.rubyguides.com/2016/02/ruby-procs-and-lambdas/https://www.rubyguides.com/2016/02/ruby-procs-and-lambdas/)
+* [Where Do I Put My Code In Rails](http://codefol.io/posts/where-do-i-put-my-code-in-rails-updated/)
 
 ## Ruby Benchmark
 
