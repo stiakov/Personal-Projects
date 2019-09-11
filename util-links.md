@@ -44,6 +44,7 @@
 * [Programación Orientada por Objetos en Ruby](https://blog.makeitreal.camp/programacion-orientada-por-objetos-ruby/)
 * [The Ultimate Guide to Blocks, Procs & Lambdas](https://www.rubyguides.com/2016/02/ruby-procs-and-lambdas/https://www.rubyguides.com/2016/02/ruby-procs-and-lambdas/https://www.rubyguides.com/2016/02/ruby-procs-and-lambdas/https://www.rubyguides.com/2016/02/ruby-procs-and-lambdas/)
 * [Where Do I Put My Code In Rails](http://codefol.io/posts/where-do-i-put-my-code-in-rails-updated/)
+* [Rails Active Record ORM](https://medium.com/swlh/rails-activerecord-relational-objects-f0c31ee679ca)
 
 ## Ruby Benchmark
 
