@@ -105,3 +105,14 @@
 * [Destroy All Software](https://www.destroyallsoftware.com/)
 * [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 * [HTTP: The Protocol Every Web Developer Must Know - Part 1](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
+
+## Software, Art, Science
+
+* [Knuth: Computer Programming as an Art](http://www.paulgraham.com/knuth.html)
+* [Is art part of software engineering?](https://www.researchgate.net/post/Is_art_part_of_software_engineering)
+* [Software Development Isn’t an Art](https://apokalypsesoftware.com/software-development-isnt-an-art/)
+* [Is Software Art or Engineering?](http://www.spectacle.org/1199/software.html)
+* [Writing Software is an Art](https://medium.com/swlh/writing-software-is-an-art-f3ab53853344)
+* [Five Reasons Generative Art Is the Ideal Hobby for a Software Developer](https://spin.atomicobject.com/2019/07/20/generative-art-software-dev/)
+* [Don’t be a Software Engineer, be a Software Artist](https://hackernoon.com/dont-be-a-software-engineer-be-a-software-artist-204dbd47e8ca)
+* [The Software Arts - Book](https://mitpress.mit.edu/books/software-arts)
