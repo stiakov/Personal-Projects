@@ -45,6 +45,7 @@
 * [The Ultimate Guide to Blocks, Procs & Lambdas](https://www.rubyguides.com/2016/02/ruby-procs-and-lambdas/https://www.rubyguides.com/2016/02/ruby-procs-and-lambdas/https://www.rubyguides.com/2016/02/ruby-procs-and-lambdas/https://www.rubyguides.com/2016/02/ruby-procs-and-lambdas/)
 * [Where Do I Put My Code In Rails](http://codefol.io/posts/where-do-i-put-my-code-in-rails-updated/)
 * [Rails Active Record ORM](https://medium.com/swlh/rails-activerecord-relational-objects-f0c31ee679ca)
+* [Rails Callbacks Cheatsheet](https://juliannaroen.com/assets/rails_callbacks_cheat_sheet.pdf)
 
 ## Ruby Benchmark
 
@@ -83,6 +84,11 @@
 * [A free visual guide to CSS](https://cssreference.io/)
 * [Learn CSS Grid for free](https://scrimba.com/g/gR8PTE)
 
+## React
+
+* [Build a React Component Library and Publish to the GitHub Package Registry](https://medium.com/better-programming/build-your-very-own-react-component-library-and-publish-it-to-github-package-registry-192a688a51fd)
+* [React/Hooks/Redux Ninja Course](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG)
+
 ## Regex
 
 * [Regex Interactive Tutorial](https://regexone.com/)
@@ -98,6 +104,9 @@
 
 ## Computer Science
 * [Path to a free self-taught education in Computer Science!](https://github.com/ossu/computer-science)
+
+## Design Patterns
+* [Design Patterns](https://refactoring.guru/design-patterns)
 
 ## Others
 
