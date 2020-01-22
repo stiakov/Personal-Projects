@@ -46,6 +46,9 @@
 * [Where Do I Put My Code In Rails](http://codefol.io/posts/where-do-i-put-my-code-in-rails-updated/)
 * [Rails Active Record ORM](https://medium.com/swlh/rails-activerecord-relational-objects-f0c31ee679ca)
 * [Rails Callbacks Cheatsheet](https://juliannaroen.com/assets/rails_callbacks_cheat_sheet.pdf)
+* [Advanced Rails model generators](https://railsguides.net/advanced-rails-model-generators/)
+* [Active Model Serializers, Rails, and JSON!](https://www.sitepoint.com/active-model-serializers-rails-and-json-oh-my/)
+* [Devise Authentication with Rails 5](https://levelup.gitconnected.com/devise-authentication-with-rails-5-815b5a9d6daf)
 
 ## Ruby Benchmark
 
@@ -101,6 +104,7 @@
 ## SQL
 
 * [Introduction to SQL](https://launchschool.com/books/sql/read/introduction)
+* [Database Structure and Design Tutorial](https://www.lucidchart.com/pages/database-diagram/database-design)
 
 ## Computer Science
 * [Path to a free self-taught education in Computer Science!](https://github.com/ossu/computer-science)
